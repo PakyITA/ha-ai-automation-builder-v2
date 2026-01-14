@@ -53,7 +53,3 @@ Usa questa modalità solo se non utilizzi HACS.
 
 ```bash
 git clone https://github.com/PakyITA/ha-ai-automation-builder-v2.git
-
----
-
-Riavvia Home Assistant e poi da Dispositivi e Servizi cerca AI Builder v2
