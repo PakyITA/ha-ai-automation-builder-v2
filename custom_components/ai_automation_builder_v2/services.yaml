@@ -1,0 +1,9 @@
+generate:
+  description: "Invia un prompt a Groq per generare un'automazione YAML"
+  fields:
+    prompt:
+      description: "La descrizione dell'automazione desiderata"
+      example: "Accendi la luce in cucina quando il sensore di movimento rileva una presenza"
+      required: true
+      selector:
+        text:
