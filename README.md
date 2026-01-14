@@ -94,6 +94,36 @@ Cerca AI Automation Builder v2
 
 Inserisci la API Key Groq
 
+Ottenere una API Key Groq
+
+Questa integrazione richiede una API Key Groq per poter generare automazioni tramite AI.
+
+1. Creare un account Groq
+
+Vai su https://www.groq.com
+
+Registrati o effettua il login.
+
+2. Generare la API Key
+
+Accedi al tuo dashboard Groq.
+
+Cerca la sezione API Keys o Impostazioni → API.
+
+Clicca Crea nuova API Key.
+
+Copia la chiave generata in un posto sicuro.
+
+3. Inserire la API Key in Home Assistant
+
+Vai su Impostazioni → Dispositivi e servizi → Aggiungi integrazione → AI Automation Builder v2
+
+Incolla la tua API Key Groq nel campo richiesto.
+
+Conferma.
+
+Dopo questo passaggio, l’integrazione potrà comunicare con Groq e generare automazioni YAML.
+
 Utilizzo
 
 Apri il pannello AI Builder dalla sidebar
